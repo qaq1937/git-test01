@@ -7,5 +7,7 @@ public class FistClass {
         System.out.println("jldhalhf");
         System.out.println("jldhalhf");
     }
-
+  public void test6(){
+      System.out.println();
+  }
 }
