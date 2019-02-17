@@ -7,4 +7,7 @@ public class FistClass {
         System.out.println("jldhalhf");
         System.out.println("jldhalhf");
     }
+    public void test(){
+        System.out.println("jahhahah");
+    }
 }
