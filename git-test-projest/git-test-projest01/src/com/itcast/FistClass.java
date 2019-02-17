@@ -10,4 +10,7 @@ public class FistClass {
     public void test(){
         System.out.println("jdhdhdhh");
     }
+    public void test2(){
+        System.out.println(2);
+    }
 }
