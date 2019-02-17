@@ -8,6 +8,12 @@ public class FistClass {
         System.out.println("jldhalhf");
     }
     public void test(){
+        System.out.println("jdhdhdhh");
+    }
+    public void test2(){
+        System.out.println(2);
+    }
+    public void test(){
         System.out.println("jahhahah");
     }
 }
