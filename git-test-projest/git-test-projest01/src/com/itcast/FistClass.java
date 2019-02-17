@@ -10,6 +10,10 @@ public class FistClass {
   public void test6(){
       System.out.println();
   }
+
+  public void test8(){
+      System.out.println(88888);
+  }
   public void test7(){
       System.out.println(7777);
   }
